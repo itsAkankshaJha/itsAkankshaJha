@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hola folks 👋
 Welcome to my github repsitory.
 I am pursuing my B.Tech in COMPUTER SCIENCE(2019-2023) from DAV Institute of Engineering and technology,Jalandhar.
+I’m currently working on building a chatbot using rasa framework.
+I’m currently learning Front end web development :innocent:
 
 <!--
 **itsAkankshaJha/itsAkankshaJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
