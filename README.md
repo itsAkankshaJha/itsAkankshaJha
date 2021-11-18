@@ -1,8 +1,8 @@
 ### Hola folks 👋
 Welcome to my github repsitory :smile:<br>
-:technologist: I am pursuing my B.Tech in (2019-2023) from DAV Institute of Engineering and technology,Jalandhar <br>
+<!--:technologist: I am pursuing my B.Tech in (2019-2023) from DAV Institute of Engineering and technology,Jalandhar <br>
  :raised_hands: I’m currently working on building a chatbot using rasa framework.<br>
-:maple_leaf: I’m currently learning Front end web development :innocent:<br>
+:maple_leaf: I’m currently learning Front end web development :innocent:<br>-->
 
 Connect with me :sunglasses: https://in.linkedin.com/in/akanksha-parashar-380b191ab <br>
 - ⚡ Fun fact: I don't like coding
