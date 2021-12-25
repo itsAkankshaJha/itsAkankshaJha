@@ -5,7 +5,7 @@ Welcome to my github repsitory :smile:<br>
 :maple_leaf: I’m currently learning Front end web development :innocent:<br>-->
 
 Connect with me :sunglasses: https://in.linkedin.com/in/akanksha-parashar-380b191ab <br>
-- ⚡ Fun fact: I don't like coding
+<!---- ⚡ Fun fact: I don't like coding-->
 
 
 <!--
